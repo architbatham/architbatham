@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm architbatham</h1>
 <h3 align="center">Proven ability to create reusable components for an enterprise-level web application. Passionate about technology and building scalable web solutions</h3>
+ <img src="https://unsplash.com/photos/turned-on-macbook-pro-LKsHwgzyk7c.jpg" alt="Description of the image">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=architbatham&label=Profile%20views&color=0e75b6&style=flat" alt="architbatham" /> </p>
 
