@@ -2,7 +2,7 @@
 <h3 align="center">An entry-level MERN stack software developer with 3
  years of experience developing front-end and back-end
  systems.Proven ability to create reusable components
- for anenterprise-levelwebapplication. Passionate about
+ for an entry-level web application. Passionate about
  technology and building scalable web solutions </h3>
  <img src="https://github.com/architbatham/ArchitProfile/blob/main/my.jpg?raw=true" alt="Description of the image">
 
