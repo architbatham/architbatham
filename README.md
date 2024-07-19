@@ -25,7 +25,6 @@
 
 - 📫 How to reach me **architbatham11@gmail.com**
 
-- ⚡ Fun fact **If you are a programmer, you are either a god or you do not have any idea what you are doing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
