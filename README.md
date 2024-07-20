@@ -9,10 +9,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=architbatham&label=Profile%20views&color=0e75b6&style=flat" alt="architbatham" /> </p>
 
-- 🔭 I’m currently working on **E-Auction**
-
-- 🌱 I’m currently learning **Next JS, Three.js**
-
 - 👯 I’m looking to collaborate on **MERN Stack**
 
 - 🤝 My Best Project [Projects](https://github.com/architbatham/Full-stackkkk/tree/main/Project/myapp)
@@ -20,8 +16,6 @@
 - 👨‍💻 All of my projects are available at [https://architbatham1.carrd.co/](https://architbatham1.carrd.co/)
 
 - 📝 I write articles on [https://www.linkedin.com/in/archit-batham-dev0/recent-activity/articles/](https://www.linkedin.com/in/archit-batham-dev0/recent-activity/articles/)
-
-- 💬 Ask me about **MERN {/*MongoDB Express React Node*/}**
 
 - 📫 How to reach me **architbatham11@gmail.com**
 
