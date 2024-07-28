@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm architbatham</h1>
-<h3 align="center">An entry-level MERN stack software developer with of experience 3-year developing front-end and 1-year back-end
+<h3 align="center">An entry-level MERN stack software developer with three years of experience 3-year developing front-end and 1-year back-end
  systems.Proven ability to create reusable components
  for an entry-level web application. Passionate about
  technology and building scalable web solutions... </h3>
