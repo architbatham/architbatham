@@ -12,7 +12,7 @@
 
 - 🤝 My Best Projects [Projects](https://github.com/architbatham/Full-stackkkk/tree/main/Project/myapp)
 
-- 👨‍💻 All of my projects are available at [https://architbatham1.carrd.co/](https://portfolio-archit-batham.vercel.app/)
+- 👨‍💻 All of my projects are available at [portfolio](https://portfolio-archit-batham.vercel.app/)
 
 - 📝 I write articles on [https://www.linkedin.com/in/archit-batham-dev0/recent-activity/articles/](https://www.linkedin.com/in/archit-batham-dev0/recent-activity/articles/)
 
