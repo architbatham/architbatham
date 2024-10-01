@@ -5,18 +5,10 @@
  technology and building scalable web solutions. </h3>
  <img src="https://github.com/architbatham/ArchitProfile/blob/main/my.jpg?raw=true" alt="Description of the image">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=architbatham&label=Profile%20views&color=0e75b6&style=flat" alt="architbatham" /> </p>
 
 - 👯 I’m looking to collaborate on **MERN Stack**
-
-- 🤝 My Best Projects [Projects](https://github.com/architbatham/Full-stackkkk/tree/main/Project/myapp)
-
 - 👨‍💻 All of my projects are available at [portfolio](https://portfolio-archit-batham.vercel.app/)
-
-- 📝 I write articles on [https://www.linkedin.com/in/archit-batham-dev0/recent-activity/articles/](https://www.linkedin.com/in/archit-batham-dev0/recent-activity/articles/)
-
-- 📫 How to reach me **architbatham11@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
