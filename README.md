@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm architbatham</h1>
-<h3 align="center">An entry-level MERN stack software developer with three years of experience 3-year developing front-end and 1-year back-end
- systems.Proven ability to create reusable components
- for an entry-level web application. Passionate about
- technology and building scalable web solutions. </h3>
+<h3 align="center">Full Stack Developer with experience in building scalable web applications. Skilled in creating reusable front-end components and efficient back-end systems. Passionate about technology and delivering impactful solutions. </h3>
  <img src="https://github.com/architbatham/ArchitProfile/blob/main/Black%20Gold%20Minimalist%20Elegant%20Business%20LinkedIn%20Banner.png" alt="Description of the image">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=architbatham&label=Profile%20views&color=0e75b6&style=flat" alt="architbatham" /> </p>
