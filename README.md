@@ -3,7 +3,7 @@
  systems.Proven ability to create reusable components
  for an entry-level web application. Passionate about
  technology and building scalable web solutions. </h3>
- <img src="https://github.com/architbatham/ArchitProfile/blob/main/my.jpg?raw=true" alt="Description of the image">
+ <img src="https://github.com/architbatham/ArchitProfile/blob/main/Black%20Gold%20Minimalist%20Elegant%20Business%20LinkedIn%20Banner.png" alt="Description of the image">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=architbatham&label=Profile%20views&color=0e75b6&style=flat" alt="architbatham" /> </p>
 
