@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=architbatham&label=Profile%20views&color=0e75b6&style=flat" alt="architbatham" /> </p>
 
-- 👯 I’m looking to collaborate on **MERN Stack**
+- 👯 My Recent project: [Movie_Booking](https://github.com/architbatham/BookMyMovie)
 - 👨‍💻 All of my projects are available at [portfolio](https://portfolio-archit-batham.vercel.app/)
 
 
